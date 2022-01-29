@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "xw505i0vuhazdlQfGEoVLLFY5sNaVL2t7aPBMWXAAXX3B7560X7DH7fZgR3+1HEH67n/y36j9WSD1EtEld+V7g==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\LeomonRD\\Desktop\\公司\\專案-sourcce\\NetCore_UseDocx\\UseDocx\\UseDocx\\UseDocx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JCont\\.nuget\\packages\\docx\\2.0.0\\docx.2.0.0.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.13\\microsoft.aspnetcore.mvc.razor.extensions.5.0.13.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.13\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.13.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.13\\microsoft.aspnetcore.razor.language.5.0.13.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\microsoft.codeanalysis.common.3.8.0.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.13\\microsoft.codeanalysis.razor.5.0.13.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\JCont\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net5.0' 還原了套件 'DocX 2.0.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "DocX",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
