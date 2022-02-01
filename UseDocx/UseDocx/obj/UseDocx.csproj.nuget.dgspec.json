@@ -52,6 +52,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.13, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.5, )"
             }
           },
           "imports": [

@@ -356,3 +356,12 @@ E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\
 E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\obj\Debug\net5.0\ref\UseDocx.dll
 E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\obj\Debug\net5.0\UseDocx.pdb
 E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\obj\Debug\net5.0\UseDocx.genruntimeconfig.cache
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\NPOI.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\LeomonRD\Desktop\公司\專案-sourcce\NetCore_UseDocx\UseDocx\UseDocx\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
