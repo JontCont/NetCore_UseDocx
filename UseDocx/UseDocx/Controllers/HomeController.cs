@@ -27,7 +27,7 @@ namespace UseDocx.Controllers
 
         public IActionResult Index()
         {
-            string docxPath = _env.WebRootPath + "\\upload\\template.docx";
+            string docxPath = _env.WebRootPath + "\\upload\\PR.docx";
 
             if (System.IO.File.Exists(docxPath))
             {
